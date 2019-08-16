@@ -81,7 +81,7 @@ programmer_hash[:yukihiro_matsumoto => {
     :languages => ["LISP", "C"]
  }]
     
-p programmer_hash    
+p adding_matz
 end
 
 # add the following information to the top level of programmer_hash
